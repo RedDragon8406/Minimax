@@ -1,6 +1,6 @@
 import random
 # For this one I did not have enough time to convert it fully to an AI program
-# So I've made it with Terminal
+# So I've made it with Terminal :)
 def printBoard(board):
     print(board[1] + '|' + board[2] + '|' + board[3])
     print('-+-+-')
